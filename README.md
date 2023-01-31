@@ -1,2 +1,2 @@
 # TATA-1MG
-To purchase Medical products from TATA-1MG website
+The Hard-coded information will be retrive from DATABASE
